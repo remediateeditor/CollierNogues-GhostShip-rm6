@@ -1,0 +1,69 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_7E4721BD_2020_2016_41CA_E0D734D89416.text =  \
+  \
+for oil tankers,
+HotspotPanoramaOverlayTextImage_7A6BC0A4_2061_E036_41C7_FBC532D5C7F1.text =    \
+  \
+not to leave.
+HotspotPanoramaOverlayTextImage_7BF905C5_2060_2076_41CD_86655761F0DC.text =    \
+under orders  \
+
+HotspotPanoramaOverlayTextImage_7615BBC8_21E0_607E_41C1_57B6B3849169.text = Another ship \
+crewed by the fathers \
+of the fathers of those sailors
+HotspotPanoramaOverlayTextImage_774E7A0D_6EB2_9E85_41DB_5E75E812C176.text = Apra is a  \
+safe harbor  \
+ \
+
+HotspotPanoramaOverlayTextImage_74B5F8F6_2060_E012_41D0_235A6B972B7B.text = At least,  \
+not immediately.
+QuadHotspotPanoramaOverlayTextImage_6E36864A_6E27_4484_41AB_E834B9C831F6.text = How to read this poem:  \
+In VR, train the dot at the center of your vision on the text for a few seconds to reveal the next line of the poem. In 2D, touch or click on the text. To start over, reload the page. 
+QuadHotspotPanoramaOverlayTextImage_6632611A_6E3D_DC84_41C4_4506AF93D5EF.text = To learn more about this boat and beach, click here. 
+HotspotPanoramaOverlayTextImage_7FD19914_2061_E016_4155_0DFA20DBE5CA.text = Weeks of quarantine \
+surrounded by clean sea—
+HotspotPanoramaOverlayTextImage_78769EC2_2020_6072_41D0_58BAA5642E68.text = a ship full of sailors  \
+
+HotspotPanoramaOverlayTextImage_7A91A343_2020_2072_41CE_D12583A2CF22.text = and, once, \
+for another \
+kind of carrier:
+HotspotPanoramaOverlayTextImage_6B2C59EB_21E0_2032_41C8_D27AFB1809BE.text = docked eighty years ago.
+HotspotPanoramaOverlayTextImage_6AD9F00E_2060_1FF2_41CF_A30F11949023.text = what comes ashore \
+we cannot see.
+
+## Media
+
+### Image
+imlevel_7DA98F1C_2060_6016_41BD_A3986465F6D6.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_2wlwj4va_en.png
+imlevel_771F6D5E_2020_2012_41AD_E97D38F77DAE.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_3ac3ddor_en.png
+imlevel_74709C2F_2020_2032_41D3_89E20E6C905C.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_5k8sjs2u_en.png
+imlevel_69C12903_20E0_21F2_41C3_1413AC095448.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_73omegzj_en.png
+imlevel_625AA5E7_6E6C_C78C_41AF_E7DEECBD35AD.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_9umw4xec_en.png
+imlevel_790E5476_2060_6012_41CF_B7DE0866849B.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_bw9d188q_en.png
+imlevel_7970EB60_2060_602E_41D0_E407A10AB2C3.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_dmau6tlc_en.png
+imlevel_7BD75886_2060_60F2_41CD_898B7D87AF9C.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_g0m4y0t6_en.png
+imlevel_6BF49127_2020_6032_41BF_A430ABAA1B9E.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_o1zoci6t_en.png
+imlevel_63C702ED_6E64_DD9C_4196_E64925348198.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_orqk03h5_en.png
+imlevel_776A1AB6_2020_6012_4151_E4C466C6316D.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_tbdmsw7r_en.png
+imlevel_7596546A_2027_E032_41BB_BB1F2ECBE170.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_v0vgylas_en.png
+imlevel_7471F3A2_2020_6032_41C2_11CA085B48E8.url = media/panorama_7A85734B_2060_2072_41A2_2BC8901F7095_HS_wv4mz1vo_en.png
+
+### Title
+panorama_7A85734B_2060_2072_41A2_2BC8901F7095.label = R0011024
+
+## Popup
+
+### Body
+htmlText_7681B258_2020_201E_41C5_036FDBDE206B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">The USS Theodore Roosevelt, a Nimitz-class nuclear-powered aircraft carrier, was deployed in the Western Pacific Ocean when an outbreak of Covid-19 was discovered on March 23, 2020. The ship was diverted to Apra Harbor, Guam, and docked on March 27. By that time, four sailors had already been airlifted to Naval Hospital Guam. Of 4,779 crew on board, eventually 1,271 would test positive for Covid-19, and one would die. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">A skeleton crew of around 800 sailors at a time quarantined on the Roosevelt to keep it running, while the others were put up on military bases and in hotels in Guam’s tourist districts to complete quarantine. Local government officials and residents were concerned that quarantining sailors in hotels would expose hotel workers and the larger community to increased risk, and asked why sailors could not be hosted on the bases. As one activist group observed, “The decision to house them in the middle of our community is playing a game of chance with the health of our people.”* </SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">The carrier finally departed two months later on May 20, leaving nearly 1800 sailors on Guam to complete their quarantine. The last USS Roosevelt sailors departed on June 4, but Guam’s hotels continued to provide quarantine rooms for US military personnel through March 6, 2022.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN/></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.0370370370370368vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.04vh;">* </SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.facebook.com/haganguahan/photos/rpp.100802761300984/227880065259919/?type=3&amp;theater" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0066ff;font-size:2.04vh;">Statement</SPAN></A></SPAN><SPAN STYLE="font-size:2.04vh;"> by I Hagan Famalåo'an Guåhan, 1 April 2020, </SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.npr.org/sections/coronavirus-live-updates/2020/04/02/826262256/guam-locals-unhappy-with-housing-u-s-sailors-from-coronavirus-hit-aircraft-carri" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#0066ff;font-size:2.04vh;">reported</SPAN></A></SPAN><SPAN STYLE="font-size:2.04vh;"> by NPR, 2 April 2020.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_6B034EC7_20E0_6072_41D2_E533C80BEC21.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The USS Theodore Roosevelt, a Nimitz-class nuclear-powered aircraft carrier, was deployed in the Western Pacific Ocean when an outbreak of Covid-19 was discovered on March 23, 2020. The ship was diverted to Apra Harbor, Guam, and docked on March 27. By that time, four sailors had already been airlifted to Naval Hospital Guam. Of 4,779 crew on board, eventually 1,271 would test positive for Covid-19, and one would die. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A skeleton crew of around 800 sailors at a time quarantined on the Roosevelt to keep it running, while the others were put up on military bases and in hotels in Guam’s tourist districts to complete quarantine. Local government officials and residents were concerned that quarantining sailors in hotels would expose hotel workers and the larger community to increased risk, and asked why sailors could not be hosted on the bases. As one activist group observed, “The decision to house them in the middle of our community is playing a game of chance with the health of our people.” </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The carrier finally departed two months later on May 20, leaving nearly 1800 sailors on Guam to complete their quarantine. The last USS Roosevelt sailors departed on June 4, but Guam’s hotels continued to provide quarantine rooms for US military personnel through March 6, 2022.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Ghost Ship • Collier Nogues
